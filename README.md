@@ -2,7 +2,7 @@
 
 ### I'm a professional *Data Scientist and NLP Engineer* with hands-on experience solving problems related to Customer Support, Sales, Marketing and Finance verticals.
 
-- 🔭 I'm currently working on recommendation engine for sales enablement as Analytics Product Manager - at Emplay Inc. 
+- 🔭 I'm currently working on Sales Enablement probelms at Emplay Inc. as Analytics Product Manager
 - 👯 I’m looking to collaborate on NLP/NLU based research projects
 - 🌱 I’m currently learning: System Design, NLIDB 
 - 💬 Ask me about: Machine Learning, Natural Language Processing, Tableau, SQL
